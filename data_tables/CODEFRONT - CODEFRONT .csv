@@ -1,0 +1,13 @@
+dependency, id_estado_obra, num, municipio, categoria, obra, empresa, numero_contrato, monto_contrato, inicio_obra_segun_contrato, termino_obra_segun_contrato, fecha_pago_anticipo, monto_anticipo, fecha_convenio_ampliacion_obra, convenio_ampliacion_economico, monto_contrato_final, total_pagado, anticipo_pendiente_amortizar, avance_financiero, avance_fisico_verificado_por_la_contraloria, entregada_al_beneficiario, fecha_de_verificacion_contraloria, ubicacion, estatus_verificado_por_la_contraloria, registro_fotografico,,,,, 
+7,0,1,Anáhuac,Construcción,EDIFICACIÓN DE OFICINAS OPERATIVAS.,"Too Diseño y Construcción, S.A. de C.V.",CDF-CDP-12/2017,"$12,987,360.00",12-Jun-17,20-Apr-18,7-Jun-17,"$3,207,226.96",10-Nov-17,"$2,296,603.46","$15,283,963.46","$12,803,404.01",$0.00,100%,100%,Entregada,21-Jan-19,"LAT: 27°41'40.7""N 
+LONG: 99°45'13.9""W",Obra Terminada,,,,
+7,0,2,Anáhuac,Construcción,"TRABAJOS DE SEGURIDAD VIAL PARA MEJORAS DE LA SUPERFICIE DE RODAMIENTO EN EL CEFACIL, UBICADO EN COLOMBIA MUNICIPIO DE ANÁHUAC, NUEVO LEÓN.","Too Diseño Diseño y Construcción, S.A. de C.V.",CDF-CDP-007/2018,"$8,550,448.64",3-Sep-18,10-Dec-18,30-Aug-18,"$2,565,134.59",Sin Convenio  ,$0.00,"$8,550,448.64","$8,550,448.64",$0.00,100%,100%,Entregada,21-Jan-19,"LAT: 27°40'58.7""N
+LONG: 99°45'59.9""W",Obra Terminada,,,,
+7,0,3,Anáhuac,Rehabilitación,HABILITACIÓN DE CIRCULACIÓN INTERIOR DE LA ESTACIÓN CUARENTENARIA.,"Constructora Pérez Martínez del Puerto, S.A. de C.V.",CDF-CDP-14/2017,"$4,604,866.05",25-Sep-17,5-Jan-18,3-Oct-17,"$1,256,816.47",7-Dec-17,"$415,477.81","$5,020,343.86","$4,214,141.38",$0.00,8%,100%,Entregada,21-Jan-19,"LAT: 27°41'17.4""N
+LONG: 99°46'08.2""W",Obra Terminada,,,,
+7,0,4,Anáhuac,Rehabilitación,"TRABAJOS DE DESMONTE y ESCARIFICADO DEL PREDIO IDENTIFICADO COMO DERECHO DE PASO DE FFCC UBICADO EN COLOMBIA, MUNICIPIO DE ANÁHUAC, NUEVO LEÓN.","Obras Pavimentos Construcción y Servicios, S.A. de C.V.",CDF-CDP-008/2018,"$2,832,945.48",24-Sep-18,24-Oct-18,20-Sep-18,"$849,883.64",Sin Convenio  ,$0.00,"$2,832,945.47","$2,832,945.48",$0.00,100%,100%,Entregada,21-Jan-19,"LAT: 27°41'01.7""N
+LONG: 99°45'35.0""W",Obra Terminada,,,,
+7,2,1,Anáhuac,Construcción,"CONSTRUCCIÓN DE CONTENEDOR DE SUSTANCIAS PELIGROSAS PARA PUENTE SOLIDARIDAD-COLOMBIA, MUNICIPIO DE ANÁHUAC, NUEVO LEÓN.","Basement Construcciones, S.A. de C.V.",CDF-CDP-06/2018,"$5,304,622.10",5-Jul-18,5-Dec-18,9-Jul-18,"$1,591,386.63",Sin Convenio  ,$0.00,"$5,304,622.10","$3,905,697.59","$419,677.35",74%,94%,No Entregada,3-Apr-19,"LAT: 27°41'55.5""N
+LONG: 99°44'48.3""W","OBRA EN PROCESO.
+Se realizan trabajos de albañilería y eléctricos. A la fecha de la visita aún no se contaba con el equipo detector de P.H.",,"$5,304,622.10",monto atrasado,0.143397916
+

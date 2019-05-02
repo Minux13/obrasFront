@@ -1,0 +1,9 @@
+dependency, id_estado_obra, num, municipio, categoria, obra, empresa, numero_contrato, monto_contrato, inicio_obra_segun_contrato, termino_obra_segun_contrato, fecha_pago_anticipo, monto_anticipo, fecha_convenio_ampliacion_obra, convenio_ampliacion_economico, monto_contrato_final, total_pagado, anticipo_pendiente_amortizar, avance_financiero, avance_fisico_verificado_por_la_contraloria, entregada_al_beneficiario, fecha_de_verificacion_contraloria, ubicacion, estatus_verificado_por_la_contraloria, registro_fotografico, justificacion_convenio ,,,, 
+10,0,1,Monterrey,Construcción,CONSTRUCCIÓN DE MURO PERIMETRAL EN LAGO ACERACIÓN.,"DISEÑO Y CONSTRUCCIONES DCN DEL NORTE, S.A. DE C.V.",PF-OP-RP-001/18-IR,"$2,537,694.82",26-Feb-18,26-Apr-18,8-Mar-18,"$380,654.22",30-Mar-18,"$960,641.19","$3,498,336.01","$3,498,336.01",$0.00,100%,100%,Entregada,21-Jan-19,"LAT: 25°40'49.7""N
+LONG: 100°16'53.5""W",Obra Terminada ,,
+10,0,2,Monterrey,Pavimentación,PAVIMENTACIÓN DE ESTACIONAMIENTO N° 4,"INTERCONSTRUCTORA, S.A. DE C.V.",PF-OP-RP-003/17-IR,"$2,292,193.12",26-Feb-18,26-Apr-18,15-Mar-18,"$458,438.62",10-May-18,"$306,100.80","$2,598,293.92","$2,598,293.62",$0.00,100%,100%,Entregada,21-Jan-19,"LAT: 25°40'55.7""N
+LONG: 100°16'59.5""W",Obra Terminada ,,
+10,1,1,Monterrey,Construcción,"CONSTRUCCIÓN DE LÍNEA DE CONDUCCIÓN HIDRÁULICA DE 16"" CON TUBERÍA DE POLIETILENO DE ALTA DENSIDAD (PEAD), UBICADO AL MARGEN DEL CANAL SANTA LUCÍA, DESDE LA AV. FÉLIX U. GÓMEZ HASTA EL MUSEO DEL NORESTE, MUNICIPIO DE MONTERREY, NUEVO LEÓN.","STRUCTOR CONSTRUCCIONES, S.A. de C.V.",PF-OP-RP-010/18-CP,"$5,383,597.73",17-Dec-18,15-Apr-18,31-Dec-18,"$538,359.77",Sin Convenio,$0.00,"$5,383,597.73","$2,007,899.31","$337,569.84",37%,75%,No entregada,3-Apr-19,"LAT: 25°40'20.7""N
+LONG: 100°17'53.7""W","OBRA EN PROCESO. 
+Se han instalado  aproximadamente 800 m. de tubería termofusionada en el interior del túnel, la cual no se ha fijado al 100%.",,
+

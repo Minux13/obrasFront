@@ -1,0 +1,137 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+#content{
+    background: #f0f0ff;
+}
+.portlet, .page-title-breadcrumb{
+    border: none;
+    border-bottom: none !important;
+}
+
+
+
+/*** Sidebar ***/
+#sidebar{
+    /*background: #303641 !important;/*background: linear-gradient(110deg,#272233,#5e4c84) !important;*/
+    background-image: url("purple.jpg") ;  
+    background-size: cover !important;
+}
+.sidebar-header{
+    background: transparent !important;
+}
+.sjo-logo-big {
+    width: 100%;
+    height: 100%;
+    padding: 20px 55px;
+}
+.sjo-logo-small {
+    padding: 10px 15px;
+}
+#sidebar .menu-element a i{
+    margin: 0 10px 0 15px;
+    font-size: 14px;
+}
+#sidebar .menu-element a{
+    font-size: 14px;
+}
+#sidebar ul.components{ /*ul line border*/
+    border-bottom: none !important;
+}
+/* Toggling the sidebar header content, hide the big heading [h3] and showing the small heading [strong] and vice versa*/
+#sidebar .sidebar-header .sjo-logo-small {
+    display: none;
+}
+#sidebar.active .sidebar-header .sjo-logo-big {
+    display: none;
+}
+#sidebar.active .sidebar-header .sjo-logo-small {
+    display: block;
+}
+
+#sidebar.active .menu-element a i{
+    margin: 4px auto ;
+    font-size: 11px;
+}
+#sidebar.active .menu-element{
+    padding: 0px ;
+}
+#sidebar.active ul li a {
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 0.85em;
+}
+#sidebarCollapse i{   /*Button i toggle*/
+    vertical-align: -2px;
+}
+#sidebarCollapse:hover, #sidebarCollapse:focus {
+    background: transparent !important;
+    color: #683064;
+    /*border: solid #683064 1px;*/
+    border-radius: 3px !important;
+    box-shadow: 0px 1px 3px rgba(50,50,50,0.5);
+}
+#sidebar .menu-element a:hover{
+    color: #606 !important;
+}
+
+
+/*** navbar ***/
+.navbar-static-top{
+    padding: 10px 0px;
+    /*background: linear-gradient(0deg, #eee, #fff);*/
+}
+.navbar-btn{
+    background: transparent;
+    color: #272233;
+}
+#dropdownMenuButton{
+    font-size: 15px;
+    background: transparent;
+    color: #333;
+    border: none;
+}
+#dropdownMenuButton:focus{
+    box-shadow: none;
+}
+.dropdown-menu{
+    padding: 10px;
+    box-sizing: border-box;
+}
+.dropdown i{
+    margin-right: 9px;
+}
+.dropdown-item{
+    font-size: 15px;
+    padding: 7px 10px;
+}
+
+
+/*** select ***/
+#dependency{
+    padding: 5px 10px;
+    height: 35px;
+    font-size: 15px;
+    border-radius: 5px !important;
+}
+/*#dependency:focus{
+    box-shadow: 0 0 8px #aaf !important;
+}*/
+
+
+
+/*** Container ***/
+.page-title-breadcrumb a{
+    font-size: 16px;
+}
+.container-fluid label{
+    font-size: 16px;
+}
+#footer{
+    display: inline-block;
+    width: fit-content;
+    text-align: right;
+    position: initial;
+    width: 100%;
+}
+
