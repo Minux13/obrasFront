@@ -524,22 +524,22 @@
       "plots":[
          {
             "name":"TERMINADAS",
-            "y":110,
+            "y":375,
             "color":"#EEEE00"
          },
          {
             "name":"EN TIEMPO",
-            "y":27,
+            "y":37,
             "color":"#009900"
          },
          {
             "name":"CON RETRASO",
-            "y":70,
+            "y":150,
             "color":"#C70000"
          },
          {
             "name":"RESCINDIDAS",
-            "y":2,
+            "y":7,
             "color":"#999999"
          },
          {
